@@ -11,10 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=istiyaq-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=istiyaq-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=istiyaq-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=istiyaq-coder&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
